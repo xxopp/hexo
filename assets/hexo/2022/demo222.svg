@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="72px" viewBox="0 0 52 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>路径_3</title>
+    <defs>
+        <linearGradient x1="42.8687755%" y1="5.7739906%" x2="55.1275744%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="新用户引导页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="引导页1" transform="translate(-269.000000, -447.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="路径-3" transform="translate(269.000000, 447.000000)">
+                <path id="路径" d="M11.0847836,5.68987247 L17.7404249,19.8568213 L11.8462018,19.7129219 C13.3761734,39.0083414 22.7533462,56.248449 34.032114,65.9022351 L34.4161059,66.2273563 L33.131986,67.7606652 C21.2444717,57.805076 11.3759651,39.8176032 9.83632412,19.6637829 L3.74460929,19.5145548 L11.0847836,5.68987247 Z" transform="translate(22.198090, 36.341942) rotate(161.000000) translate(-22.198090, -36.341942) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
