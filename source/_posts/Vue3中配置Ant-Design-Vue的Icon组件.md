@@ -4,7 +4,7 @@ tags:
   - Ant Design
   - Vue3
 index_img: >-
-  https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/kid-6565461_640.jpg
+  https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/kid-6565461_640.jpg
 categories: Web前端
 abbrlink: 57596eb
 date: 2022-08-24 10:24:13
@@ -70,7 +70,7 @@ for (const i of iconList) {
 
 完成后看效果
 
-![](https://gcore.jsdelivr.net/gh/laoyerror/pic@main/20220824104013.png)
+![](https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/hexo/2022/20220824104013.png)
 
 #### 注意事项
 

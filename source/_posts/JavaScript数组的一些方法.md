@@ -4,7 +4,7 @@ tags:
   - JavaScript
   - 代码
 index_img: >-
-  https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/woman-1509956_640.jpg
+  https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/woman-1509956_640.jpg
 categories: Web前端
 abbrlink: cc5cb51a
 date: 2022-08-18 10:09:46

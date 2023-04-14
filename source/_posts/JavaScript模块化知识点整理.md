@@ -5,7 +5,7 @@ tags:
   - JavaScript
   - 代码
 index_img: >-
-  https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/person-875165_640.jpg
+  https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/person-875165_640.jpg
 categories: Web前端
 abbrlink: 52b407f5
 ---

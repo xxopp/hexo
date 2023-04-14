@@ -3,7 +3,7 @@ title: Vue中监听鼠标滚动事件
 tags:
   - Vue
   - JavaScript
-index_img: 'https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/20201119c.jpg'
+index_img: 'https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/20201119c.jpg'
 categories: Web前端
 abbrlink: dd5a6262
 date: 2020-11-19 14:55:08

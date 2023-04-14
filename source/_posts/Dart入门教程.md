@@ -3,8 +3,9 @@ title: Dart入门教程
 tags:
   - Dart
   - 代码
+  - 转载
 index_img: >-
-  https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/mother-6935336_640.jpg
+  https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/mother-6935336_640.jpg
 categories: Flutter
 abbrlink: 6bb26185
 date: 2023-01-11 10:38:12

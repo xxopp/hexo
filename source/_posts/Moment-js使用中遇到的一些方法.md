@@ -4,7 +4,7 @@ tags:
   - Moment
   - JavaScript
 index_img: >-
-  https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io@latest/hexo/20201119bb.jpg
+  https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/20201119bb.jpg
 categories: Web前端
 abbrlink: 1448db71
 date: 2020-11-20 14:27:55
@@ -16,7 +16,7 @@ Moment是JavaScript日期处理类库平时转换时间日期时大大方便了�
 
 创建一个新Date对象的唯一方法是通过new 操作符; 若将它作为常规函数调用（即不加 new 操作符），将返回一个字符串，而非 Date 对象。
 
-![](https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io@latest/hexo/20201120144124.png)
+![](https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/20201120144124.png)
 
 ``` bash
 const time = new Date()

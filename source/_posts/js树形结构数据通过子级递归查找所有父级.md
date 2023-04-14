@@ -4,7 +4,7 @@ tags:
   - JavaScript
   - 代码
 index_img: >-
-  https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/desert-7008952_640.jpg
+  https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/desert-7008952_640.jpg
 categories: Web前端
 abbrlink: f1e77e61
 date: 2023-01-08 17:26:56

@@ -2,7 +2,7 @@
 title: 解决国内git程序无法下载，国内下载镜像分享
 tags:
   - Git
-index_img: https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/git.jpg
+index_img: https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/git.jpg
 categories: Web前端
 abbrlink: fda6f7b3
 date: 2020-11-16 17:34:32

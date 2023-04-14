@@ -4,7 +4,7 @@ tags:
   - 小程序
   - uniapp
 index_img: >-
-  https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/7342177_640.jpg
+  https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/7342177_640.jpg
 categories: Web前端
 abbrlink: d304ee7d
 date: 2022-08-15 09:44:28

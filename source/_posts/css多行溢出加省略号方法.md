@@ -3,7 +3,7 @@ title: css多行溢出加省略号方法
 date: 2022-05-20 13:18:53
 tags:
   - CSS
-index_img: 'https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/0405383830.jpg'
+index_img: 'https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/0405383830.jpg'
 categories: Web前端
 abbrlink: 6c1f1d06
 ---
@@ -77,4 +77,4 @@ for (let index = 0; index < dom.length; index++) {
 
 ### 最终结果：
 
-![](https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/20210907152240.png)
+![](https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/20210907152240.png)

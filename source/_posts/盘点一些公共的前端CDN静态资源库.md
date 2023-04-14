@@ -4,7 +4,7 @@ tags:
   - CDN
   - 静态资源
 index_img: >-
-  https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/7333557_640.jpg
+  https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/7333557_640.jpg
 categories: Web前端
 abbrlink: 9a073722
 date: 2022-08-17 13:24:30

@@ -2,7 +2,7 @@
 title: CSS中鼠标指针样式
 tags:
   - CSS
-index_img: 'https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/20201119a.jpg'
+index_img: 'https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/20201119a.jpg'
 categories: Web前端
 abbrlink: 549a6b71
 date: 2020-11-19 14:30:54

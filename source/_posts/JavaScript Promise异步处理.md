@@ -5,7 +5,7 @@ tags:
   - JavaScript
   - 代码
 index_img: >-
-  https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/0605459972.jpg
+  https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/0605459972.jpg
 categories: Web前端
 abbrlink: f1273b70
 ---
@@ -136,7 +136,7 @@ https://www.cnblogs.com/dengyao-blogs/p/13156045.html
 
 上述过程会不断重复循环，也就是常说的Event Loop(事件循环)。
 
-![](https://gcore.jsdelivr.net/gh/laoyerror/pic@main/1650307-20210426133431635-1846058683.png)
+![](https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/hexo/2022/1650307-20210426133431635-1846058683.png)
 
 #### 拓展练习
 

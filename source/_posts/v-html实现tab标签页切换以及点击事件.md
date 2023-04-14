@@ -3,7 +3,7 @@ title: v-html实现tab标签页切换以及点击事件
 tags:
   - Vue
   - JavaScript
-index_img: 'https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/20201117a.png'
+index_img: 'https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/20201117a.png'
 categories: Web前端
 abbrlink: b6b71b2e
 date: 2020-11-19 11:52:23
@@ -92,7 +92,7 @@ window.changeTab = (val) => {
 
 大功告成！
 
-![](https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/20201119140356.png)
+![](https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/20201119140356.png)
 
 ## 补充
 

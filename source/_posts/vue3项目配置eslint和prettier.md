@@ -4,7 +4,7 @@ tags:
   - Vscode
   - Vue
 index_img: >-
-  https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/1401822459.jpg
+  https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/1401822459.jpg
 categories: Web前端
 abbrlink: 83aab208
 date: 2022-08-05 10:27:50
@@ -29,7 +29,7 @@ npm i eslint-plugin-vue vue-eslint-parser -g
 
 进入Vscode设置搜索 eslint 把Vetur的验证模板，**取消勾选**Validate vue-html in using eslint-plugin-vue
 
-![](https://gcore.jsdelivr.net/gh/laoyerror/pic@main/20220805103623.png)
+![](https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/hexo/2022/20220805103623.png)
 
 ### eslint配置
 

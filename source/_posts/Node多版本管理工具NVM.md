@@ -3,7 +3,7 @@ title: Node多版本管理工具NVM
 tags:
   - Node
 index_img: >-
-  https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/girl-6738285_640.jpg
+  https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/girl-6738285_640.jpg
 categories: 操作配置
 abbrlink: 3b769c6a
 date: 2022-09-05 09:32:21
@@ -45,7 +45,7 @@ nvm reinstall-packages <version> ## 在当前版本node环境下，重新全局�
 
 PowerShell或者CMD以管理员权限打开即可
 
-![](https://gcore.jsdelivr.net/gh/laoyerror/pic@main/20220905100348.png)
+![](https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/hexo/2022/20220905100348.png)
 
 #### 安装Node指定版本报错
 

@@ -3,7 +3,7 @@ title: vue实现iframe通信
 tags:
   - Vue
 index_img: >-
-  https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/0805623231.jpg
+  https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/0805623231.jpg
 categories: Web前端
 abbrlink: ac993ba7
 date: 2022-07-21 16:06:47

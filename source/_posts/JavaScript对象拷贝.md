@@ -4,7 +4,7 @@ date: 2022-08-12 17:18:53
 tags:
   - JavaScript
 index_img: >-
-  https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/0505422018.jpg
+  https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/0505422018.jpg
 categories: Web前端
 abbrlink: c9216b5f
 ---
@@ -15,7 +15,7 @@ javascript 的对象只是指向内存中某个位置的指针。这些指针是
 
 正是由于此特性，在将一个对象a赋值给b时，再修改b中某个对象属性的值，由于指向的是内存中的同一个地址，a中想对应的属性值也会被更改
 
-![](https://gcore.jsdelivr.net/gh/laoyerror/pic@main/20220812135231.png)
+![](https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/hexo/2022/20220812135231.png)
 
 由此引申出对象深拷贝浅拷贝以及解决方案，日常工作开发中，大部分情况都是不需要随着对方的变化而变化的场景，因此我们需要正确处理Javascript 中的对象拷贝
 
@@ -50,7 +50,7 @@ let b;
 b = JSON.parse(JSON.stringify(test))
 ```
 
-![](https://gcore.jsdelivr.net/gh/laoyerror/pic@main/20220812152202.png)
+![](https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/hexo/2022/20220812152202.png)
 
 如果obj里有RegExp、Error对象，则序列化的结果将只得到空对象
 
@@ -64,7 +64,7 @@ JSON.parse(JSON.stringify(test));
 
 
 
-![](https://gcore.jsdelivr.net/gh/laoyerror/pic@main/20220812153644.png)
+![](https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/hexo/2022/20220812153644.png)
 
 如果obj里有函数，undefined，则序列化的结果会把函数或 undefined丢失；
 

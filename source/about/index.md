@@ -1,7 +1,7 @@
 ---
 title: 关于
 date: 2020-11-16 13:45:30
-banner_img: https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/20201117c.jpg
+banner_img: https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/20201117c.jpg
 ---
 从事前端工作已经有一阵时间，接触的内容以及新的知识点越来越多。创建博客的初衷也是为了巩固知识记录日常的一些小坑小记！
 
@@ -19,5 +19,6 @@ banner_img: https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/20
 
 
 
-![avatear](https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/stu.gif)
+![avatear](https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/stu.gif)
 
+![](https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/hexo/2023/20230414172046.png)

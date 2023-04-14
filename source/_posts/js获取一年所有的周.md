@@ -4,7 +4,7 @@ tags:
   - JavaScript
   - 代码
 index_img: >-
-  https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/children-593313_640.jpg
+  https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/children-593313_640.jpg
 categories: Web前端
 abbrlink: 9ee6abd3
 date: 2023-01-10 17:13:17
@@ -12,7 +12,7 @@ date: 2023-01-10 17:13:17
 
  ### 获取一年中所有周(周一开始，周日结束)
 
-![](https://gcore.jsdelivr.net/gh/laoyerror/pic@main/78c7ef7dedc3496cba7018f879b97281.png)
+![](https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/hexo/2022/78c7ef7dedc3496cba7018f879b97281.png)
 
 ### 代码
 

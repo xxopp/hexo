@@ -3,7 +3,7 @@ title: setInterval和setTimeout定时器笔记
 tags:
   - JavaScript
   - Vue
-index_img: 'https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/020677585.jpg'
+index_img: 'https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/020677585.jpg'
 categories: Web前端
 abbrlink: ce49fcb8
 date: 2020-12-02 16:09:14

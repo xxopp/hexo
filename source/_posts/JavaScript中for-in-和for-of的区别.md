@@ -3,7 +3,7 @@ title: JavaScript中for in 和for of的区别
 tags:
   - JavaScript
   - 代码
-index_img: 'https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/20201117b.jpg'
+index_img: 'https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/20201117b.jpg'
 categories: Web前端
 abbrlink: 2e4a4aec
 date: 2020-11-17 15:57:13

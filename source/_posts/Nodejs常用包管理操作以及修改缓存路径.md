@@ -4,7 +4,7 @@ tags:
   - npm
   - Node
 index_img: >-
-  https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/adult-1807500_640.jpg
+  https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/adult-1807500_640.jpg
 categories: 操作配置
 abbrlink: 4288b4e5
 date: 2023-02-28 15:01:00
@@ -146,13 +146,13 @@ path=D:\nodejs\node_global
 
 选一个位置新建两个文件夹，分别起名为**node_cache** 和**node_global**
 
-![](https://gcore.jsdelivr.net/gh/laoyerror/pic@main/20230228144717.png)
+![](https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/hexo/2022/20230228144717.png)
 
 对于全局安装的依赖，如果不想因为更换目录而丢失，可以复制一份过去，这样就省去了重新安装的步骤
 
 这里是将`C:\Users\DELL\AppData\Roaming\npm`下的文件复制到`D:\nodejs\node_global`下，node_cache缓存目录可无视
 
-![](https://gcore.jsdelivr.net/gh/laoyerror/pic@main/20230227174739.png)
+![](https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/hexo/2022/20230227174739.png)
 
 修改路径
 
@@ -163,18 +163,80 @@ npm config set prefix "D:\nodejs\node_global"
 
 桌面找到`我的电脑`鼠标右键点击属性，点击`高级系统设置`，在系统属性窗口点击`环境变量`
 
-![](https://gcore.jsdelivr.net/gh/laoyerror/pic@main/20230228145239.png)
+![](https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/hexo/2022/20230228145239.png)
 
 系统变量新建NODE_PATH，值为刚刚设置的全局包的路径
 
-![](https://gcore.jsdelivr.net/gh/laoyerror/pic@main/20230228145433.png)
+![](https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/hexo/2022/20230228145433.png)
 
 用户变量设置path，双击path打开，添加全局包的路径
 
 删除Roaming\npm字样的信息，作者这里的是C:\Users\DELL\AppData\Roaming\npm
 
-![](https://gcore.jsdelivr.net/gh/laoyerror/pic@main/20230228145604.png)
+![](https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/hexo/2022/20230228145604.png)
 
 测试一下，大功告成！
 
-![](https://gcore.jsdelivr.net/gh/laoyerror/pic@main/20230227175543.png)
+![](https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/hexo/2022/20230227175543.png)
+
+### Yarn修改缓存目录
+
+注意：yarn的bin目录需要加到环境变量的path中，否则yarn全局安装的包在命令行中不能正常使用
+
+默认目录如下，修改目录后需要更改
+
+![](https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/hexo/2023/20230404134514.png)
+
+查询yarn全局目录
+
+```js
+yarn global dir
+```
+
+查询yarn缓存目录
+
+```js
+yarn cache dir
+```
+
+改变yarn缓存位置
+
+```js
+yarn config set cache-folder "D:\nodejs\yarn_cache"
+```
+
+改变yarn全局依赖位置
+
+```js
+yarn config set global-folder "D:\nodejs\yarn_global"
+```
+
+![](https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/hexo/2023/20230404141129.png)
+
+避免重复安装可以将原数据剪切过去，最后统一修改路径就行了
+
+![](https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/hexo/2023/20230404135503.png)
+
+修改yarn的bin目录，添加用户变量无效，这里放到了系统变量中
+
+在我们使用全局安装包的时候，会在 “D:\nodejs\yarn_global”（上面的示例路径，要根据自己的实际情况配置） 下生成 node_modules/bin 目录
+
+我们需要将 D:\nodejs\yarn_global\node_modules.bin 整个目录 添加到系统环境变量中去，否则通过yarn 添加的全局包 在cmd 中是找不到的。
+
+```js
+D:\nodejs\yarn_global\node_modules\.bin
+```
+
+![](https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/hexo/2023/20230407172727.png)
+
+查看 yarn 全局bin位置
+
+```js
+yarn global bin
+```
+
+![](https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/hexo/2023/20230407173840.png)
+
+默认的`yarn`命令`bin`，会存放到`npm`的全局安装的依赖包`node_global`里的`bin`，但是yarn添加的全局包还是会存放在自身设置的目录中，毕竟*Yarn* 还是*基于 npm* 的许多概念和流程来架构设计的
+
+拓展文章：[yarn配置](https://juejin.cn/post/7125695269689098248)

@@ -3,7 +3,7 @@ title: Powershell中禁止执行脚本解决办法
 tags:
   - Windows
   - 开发环境
-index_img: 'https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/0305178398.jpg'
+index_img: 'https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/0305178398.jpg'
 categories: 操作配置
 abbrlink: 1f6b68f8
 date: 2021-08-30 10:16:12
@@ -11,7 +11,7 @@ date: 2021-08-30 10:16:12
 
 公司电脑通过Powershell执行脚本的时候遇到如下报错：
 
-![](https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/20210707143115.png)
+![](https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/20210707143115.png)
 
 ### 解决办法
 
@@ -33,7 +33,7 @@ set-ExecutionPolicy RemoteSigned
 
 这里需要注意的一点是，需要以管理员权限打开Windows PowerShell 再执行上述代码才能生效
 
-![](https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/20210707144007.png)
+![](https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/20210707144007.png)
 
 ### 拓展补充
 

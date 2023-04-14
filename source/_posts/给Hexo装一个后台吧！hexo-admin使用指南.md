@@ -1,9 +1,9 @@
+---
 title: 给Hexo装一个后台吧！hexo-admin使用指南
 tags:
   - Hexo
   - Hexo插件
-index_img: >-
-    https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/dwarf-rabbit-4833046_640.jpg
+index_img: 'https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/dwarf-rabbit-4833046_640.jpg'
 categories: Hexo
 abbrlink: b2893acd
 date: 2023-03-07 14:00:00
@@ -36,7 +36,7 @@ Hexo安装教程就此省略，hexo-admin只能在Hexo网站中使用
 上一步填写帐号密码后，下方会自动生成一些内功供复制
 
 然后粘贴进_config.yml文件保存即可
-![](https://gcore.jsdelivr.net/gh/laoyerror/pic@main/20230307142545.png)
+![](https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/hexo/2022/20230307142545.png)
 
 图中的deployCommand配置向下面会单独解释
 
@@ -44,7 +44,7 @@ Hexo安装教程就此省略，hexo-admin只能在Hexo网站中使用
 
 编辑文章时发现原主题顶部的一些配置项未展示，通过后台生成的内容肯定跟主题有所不兼容，正好hexo-admin支持用户自定义配置元数据，将相关的配置项复制过来即可
 
-![](https://gcore.jsdelivr.net/gh/laoyerror/pic@main/20230307143034.png)
+![](https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/hexo/2022/20230307143034.png)
 
 根据使用的主题要求填写入_config.yml文件
 

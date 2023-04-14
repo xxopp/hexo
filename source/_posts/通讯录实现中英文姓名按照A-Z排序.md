@@ -5,7 +5,7 @@ tags:
   - JavaScript
   - 代码
 index_img: >-
-  https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/1f60ad40880611ebb6edd017c2d2eca2.jpg
+  https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/1f60ad40880611ebb6edd017c2d2eca2.jpg
 categories: Web前端
 abbrlink: ca92deea
 ---

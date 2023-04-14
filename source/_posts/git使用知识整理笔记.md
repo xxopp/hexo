@@ -4,7 +4,7 @@ tags:
   - 小程序
   - uniapp
 index_img: >-
-  https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/prairie-7362991_640.jpg
+  https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/prairie-7362991_640.jpg
 categories: 操作配置
 abbrlink: f9e9e6ba
 date: 2023-02-27 09:17:53
@@ -159,28 +159,7 @@ git reset --hard commit_id
 git push
 
 // revert
-// 回退并保留当前修改===推荐===
+// 回退并保留当前修改
 git revert -n commit_id
 git commit -m "恢复上一次修改"
 ```
-
-### 拓展
-
-如何删除github中的提交历史记录
-
-```js
-// 切换到一个脱离主分支的另外一条全新主分支，不用太在意叫什么，因为后面还会修改分支名称
-	git checkout --orphan latest_branch
-// 暂存所有改动过的文件，内容为当前旧分支的最新版本所有文件
- 	git add -A
-// 提交更改
- 	git commit -am "commit message"
-// 删除原始主分支
-	git branch -D main
-// 将当前分支重命名为 main
-	git branch -m main
-// 最后，强制更新您的存储库
-	git push -f origin main
-```
-
-这时候就有了一条当前版本为起点的新主分支

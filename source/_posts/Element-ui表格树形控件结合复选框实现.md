@@ -3,7 +3,7 @@ title: Element ui表格树形控件结合复选框实现
 tags:
   - Vue
   - Element
-index_img: 'https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/20201119ee.jpg'
+index_img: 'https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/20201119ee.jpg'
 categories: Web前端
 abbrlink: 2a248f00
 date: 2020-11-19 17:11:57

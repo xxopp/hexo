@@ -3,7 +3,7 @@ title: Vue封装Element ui的Tree Select树形选择器组件
 tags:
   - Vue
   - Element
-index_img: 'https://gcore.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/hexo/20201119f.jpg'
+index_img: 'https://cdn.staticaly.com/gh/yeyulingfeng01/hexo@main/assets/cover/2022/20201119f.jpg'
 categories: Web前端
 abbrlink: c89a5d43
 date: 2020-11-19 17:33:44
